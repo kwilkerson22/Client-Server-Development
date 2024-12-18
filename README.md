@@ -6,6 +6,8 @@ In Project One, I developed a CRUD module that kept the database implementation 
 
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
 
+For me, it is important to have a clear understanding of the requirements of the application. In Project Two, I reviewed the requirements to make sure that the database and dashboard design was aligned with the company's need to efficiently locate search and rescue dogs. I worked incrementally, testing each portion before moving on to the next. The CRUD functions were implemented individually before they were connected to the dashboard. Then I added filtering and data visualization to the final product in Project Two. This project was challenging because it was my first time connecting backend code with frontend code. In the future I would consider using mock data to design and test my databases when client data is not immediately available.
+
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
 
 
