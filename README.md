@@ -10,7 +10,7 @@ For me, it is important to have a clear understanding of the requirements of the
 
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
 
-Computer scientists develop applications to solve problems and make processes more efficient. The dashboard I made for Graziosos Salvare streamlined operations by automating data filtering and visualization. This saved time and helped the organization quickly identify dogs that were suitable for search and rescue training. Additionally, the dashboard was designed with scalability in mind, ensuring that it could accommodate future growth. 
+Computer scientists develop applications to solve problems and make processes more efficient. The dashboard I made for Grazioso Salvare streamlined operations by automating data filtering and visualization. This saved time and helped the organization quickly identify dogs that were suitable for search and rescue training. Additionally, the dashboard was designed with scalability in mind, ensuring that it could accommodate future growth. 
 
 
 **Link for dashboard demo: https://www.youtube.com/watch?v=JJrcTNJKqic**
